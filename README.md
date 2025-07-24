@@ -4,3 +4,4 @@ my teacher made me upload these files, but the code was my doing
 124 150 145 40 164 145 141 143 150 145 162 163 40 150 145 162 145 40 141 162 145 40 150 145 154 154 141 40 163 157 146 164 56
 <br>
 good luck
+PS. For a hint to the code in this readme just click on the "I added the necessary file" on the python file.
